@@ -1,2 +1,2 @@
 # TDDS041B
-i am student Bsc.data science
+i am student of Bsc.data science
